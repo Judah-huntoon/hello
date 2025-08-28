@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Judah Huntoon and Trey Siske\n");
-
+  printf("Judah Huntoon and Trey Siske!\n");
+  printf("Major: Computer Science!\n");
   return 0;
 }
